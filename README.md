@@ -26,7 +26,7 @@ Or can search for other information to start the new server by yourself in [RO-W
 
 #### Discord Server: https://discord.gg/aY3AuRZ
 
-#### Discord ID: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#1738
+#### Discord ID: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#8371
 
 -------
 
