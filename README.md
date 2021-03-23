@@ -18,15 +18,15 @@ Or can search for other information to start the new server by yourself in [RO-W
 
 -------
 
-# Profiles
+# My Profiles
 
-#### Github: https://github.com/X-EcutiOnner
+   Github: [https://github.com/X-EcutiOnner](https://github.com/X-EcutiOnner)
 
-#### Gitlab: https://gitlab.com/X-EcutiOnner
+   Gitlab: [https://gitlab.com/X-EcutiOnner](https://gitlab.com/X-EcutiOnner)
 
-#### Discord Server: https://discord.gg/aY3AuRZ
+   Discord Server: [https://discord.gg/aY3AuRZ](https://discord.gg/aY3AuRZ)
 
-#### Discord ID: X-EcutiOnner#8371
+    Discord ID: X-EcutiOnner#8371
 
 -------
 
