@@ -4,7 +4,7 @@
 
 สามารถเข้ามาพูดคุยแลกเปลี่ยนความคิดเห็นร่วมกับสมาชิกคนอื่นๆ ได้ใน [ดิสคอร์ด](https://discord.gg/aY3AuRZ)
 
-หรือสามารถค้นหาข้อมูลอื่นๆ เพื่อเริ่มต้นทำเซิร์ฟเวอร์ด้วยตัวเอง ได้ใน [RO-Wiki](http://ro-wiki.ddns.net)
+หรือสามารถค้นหาข้อมูลอื่นๆ เพื่อเริ่มต้นทำเซิร์ฟเวอร์ด้วยตัวเอง ได้ใน [RO-Wiki](https://ro-wiki.github.io/)
 
 -------
 
@@ -14,7 +14,7 @@ General talk about RO, discuss issues or seek advice.
 
 Able to chat and exchange ideas with other members in [Discord](https://discord.gg/aY3AuRZ)
 
-Or can search for other information to start the new server by yourself in [RO-Wiki](http://ro-wiki.ddns.net)
+Or can search for other information to start the new server by yourself in [RO-Wiki](https://ro-wiki.github.io/)
 
 -------
 
