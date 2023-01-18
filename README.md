@@ -45,6 +45,9 @@ Or can search for other information to start the new server by yourself in [RO-W
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|
+|---|
+
 ## 💪 My Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=X-EcutiOnner&theme=radical"/>|
 |---|---|
