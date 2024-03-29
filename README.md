@@ -52,6 +52,15 @@ Or can search for other information to start the new server by yourself in [RO-W
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=X-EcutiOnner&theme=radical"/>|
 |---|---|
 
+## 🛍️ Activities
+| Repository | Description | Commit | Push |
+|:------|:------|:------|:------|
+| [WARP-2-ASGARD](https://github.com/X-EcutiOnner/WARP-2-ASGARD) | Win App Revamp Package | 937 | 2024/03/07 10:30:00 |
+| [SRH-Dev](https://github.com/X-EcutiOnner/SRH-Dev) | Simply Extend Ragnarök Online | 310 | 2023/09/22 19:04:14 |
+| [ROShuai](https://github.com/X-EcutiOnner/ROShuai) | RO Shell Unattended Auto Installer | 2,167 | 2023/07/10 20:35:49 |
+| [GF-Generator](https://github.com/X-EcutiOnner/GF-Generator) | Garment Files Generator | 28 | 2023/04/21 21:45:59 |
+| [Zeus](https://github.com/X-EcutiOnner/Zeus) | Zeus - Ragnarök Packet Logger/Parser/Recorder | 19 | 2022/05/06 14:13:51 |
+
 ## 🎁 Donations
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xecutionner)
