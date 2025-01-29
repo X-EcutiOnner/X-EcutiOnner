@@ -1,18 +1,6 @@
 ## ✨ Yo... What Up!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-พูดคุยทั่วไปเกี่ยวกับ RO ปรึกษาปัญหา หรือขอคำแนะนำ
-
-สามารถเข้ามาพูดคุยแลกเปลี่ยนความคิดเห็นร่วมกับสมาชิกคนอื่นๆ ได้ใน [ดิสคอร์ด](https://discord.gg/aY3AuRZ)
-
-หรือสามารถค้นหาข้อมูลอื่นๆ เพื่อเริ่มต้นทำเซิร์ฟเวอร์ด้วยตัวเอง ได้ใน [RO-Wiki](https://ro-wiki.github.io/)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=สวัสดี+👋+ทุกท่านที่เข้ามาเยี่ยมชมและติดตาม)](https://git.io/typing-svg)
-
-General talk about RO, discuss issues or seek advice.
-
-Able to chat and exchange ideas with other members in [Discord](https://discord.gg/aY3AuRZ).
-
-Or can search for other information to start the new server by yourself in [RO-Wiki](https://ro-wiki.github.io/).
+I’m X, the real deal! What’s crackin', fam?
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=Hi+there+👋+Greeting+all+Visitors+and+Follower)](https://git.io/typing-svg)
 
@@ -51,15 +39,6 @@ Or can search for other information to start the new server by yourself in [RO-W
 ## 💪 My Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=X-EcutiOnner&theme=radical"/>|
 |---|---|
-
-## 🛍️ Activities
-| Repository | Description | Commit | Push |
-|:------|:------|:------|:------|
-| [WARP-2-ASGARD](https://github.com/X-EcutiOnner/WARP-2-ASGARD) | Win App Revamp Package | 937 | 2024/03/07 10:30:00 |
-| [SRH-Dev](https://github.com/X-EcutiOnner/SRH-Dev) | Simply Extend Ragnarök Online | 310 | 2023/09/22 19:04:14 |
-| [ROShuai](https://github.com/X-EcutiOnner/ROShuai) | RO Shell Unattended Auto Installer | 2,167 | 2023/07/10 20:35:49 |
-| [GF-Generator](https://github.com/X-EcutiOnner/GF-Generator) | Garment Files Generator | 28 | 2023/04/21 21:45:59 |
-| [Zeus](https://github.com/X-EcutiOnner/Zeus) | Zeus - Ragnarök Packet Logger/Parser/Recorder | 19 | 2022/05/06 14:13:51 |
 
 ## 🎁 Donations
 
