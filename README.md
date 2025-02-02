@@ -2,7 +2,7 @@
 
 I’m X, the real deal! What’s crackin', fam?
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=Hi+there+👋+Greeting+all+Visitors+and+Follower)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=สวัสดี+👋+ทุกท่านที่เข้ามาเยี่ยมชมและติดตาม;Hi+there+👋+Greeting+all+Visitors+and+Follower)](https://git.io/typing-svg)
 
 ## 🌠 Profiles
 
