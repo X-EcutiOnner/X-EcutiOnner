@@ -1,8 +1,16 @@
 ## ✨ Yo... What Up!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=X-EcutiOnner&label=Profile%20views&color=828282&style=flat" alt="X-EcutiOnner" /> </p>
+
 I’m X, the real deal! What’s crackin', fam?
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=สวัสดี+👋+ทุกท่านที่เข้ามาเยี่ยมชมและติดตาม;Hi+there+👋+Greeting+all+Visitors+and+Follower)](https://git.io/typing-svg)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X-EcutiOnner&theme=onedark" alt="X-EcutiOnner" /></a> </p>
+
+- 🔭 I’m currently working on **Internal Porgram**
+
+- 🌱 I’m currently learning **something that I like**
 
 ## 🌠 Profiles
 
