@@ -16,6 +16,8 @@
 
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X-EcutiOnner&theme=onedark" alt="X-EcutiOnner" /></a> </p>
+
 ## 🌠 My Contacts
 <a href="https://github.com/X-EcutiOnner">
   <img align="left" height="32px" width="32px" src="https://www.svgrepo.com/download/475654/github-color.svg"  />
@@ -48,10 +50,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X-EcutiOnner&theme=onedark" alt="X-EcutiOnner" /></a> </p>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|
 |---|
