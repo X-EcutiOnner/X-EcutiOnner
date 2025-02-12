@@ -1,33 +1,43 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## ✨ Yo... What Up!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=X-EcutiOnner&label=Profile%20views&color=828282&style=flat" alt="X-EcutiOnner" /> </p>
 
-I’m X, the real deal! What’s crackin', fam?
+💬 Hey!!! I’m **X**, the real deal! What’s crackin', fam? 🤟
+
+- 📲 I’m currently working on **Software Development**.
+
+- 🐸 I’m currently learning **Reverse Engineering** and **AI Technologies**.
+
+- 🌱 I'm interests with **something that I like**.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=สวัสดี+👋+ทุกท่านที่เข้ามาเยี่ยมชมและติดตาม;Hi+there+👋+Greeting+all+Visitors+and+Follower)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X-EcutiOnner&theme=onedark" alt="X-EcutiOnner" /></a> </p>
+</p>
 
-- 🔭 I’m currently working on **Internal Porgram**
-
-- 🌱 I’m currently learning **something that I like**
-
-## 🌠 Profiles
-
+## 🌠 My Contacts
 <a href="https://github.com/X-EcutiOnner">
-  <img align="left" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  />
+  <img align="left" height="32px" width="32px" src="https://www.svgrepo.com/download/475654/github-color.svg"  />
 </a>
 <a href="https://gitlab.com/X-EcutiOnner">
-  <img align="left" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+  <img align="left" height="32px" width="32px" src="https://www.svgrepo.com/download/353785/gitlab.svg" />
 </a>
 <a href="https://discord.com/users/X-EcutiOnner#8371">
-  <img align="left" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" height="32px" width="32px" src="https://www.svgrepo.com/download/353655/discord-icon.svg" />
 </a>
 <a href="mailto:xex.ecutionner@gmail.com">
-  <img align="left" height="32px" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" height="32px" width="32px" src="https://www.svgrepo.com/download/484995/email-part-2.svg" />
 </a>
 <br />
 <br />
+
+## 🎁 Donations
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xecutionner)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xecutionner)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=🙏+ขอบคุณมากสำหรับการสนับสนุนของท่าน;🙏+Thanks+so+much+for+your+support)](https://git.io/typing-svg)
 
 ## 🛠️ Experiences
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -41,20 +51,14 @@ I’m X, the real deal! What’s crackin', fam?
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X-EcutiOnner&theme=onedark" alt="X-EcutiOnner" /></a> </p>
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|
 |---|
 
 ## 💪 My Stats
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=X-EcutiOnner&theme=radical"/>|
 |---|---|
-
-## 🎁 Donations
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xecutionner)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xecutionner)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=🙏+ขอบคุณมากสำหรับการสนับสนุนของท่าน;🙏+Thanks+so+much+for+your+support)](https://git.io/typing-svg)
 
 <!--
 **X-EcutiOnner/X-EcutiOnner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
