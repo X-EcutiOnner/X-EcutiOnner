@@ -8,9 +8,9 @@
 
 - 📲 I’m currently working on **Software Development**.
 
-- 🐸 I’m currently learning **Reverse Engineering** and **AI Technologies**.
+- 🐸 I’m currently learning **Reverse Engineering**.
 
-- 🌱 I'm interests with **something that I like**.
+- 🌱 I'm interests with **AI Technologies**.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=สวัสดี+👋+ทุกท่านที่เข้ามาเยี่ยมชมและติดตาม;Hi+there+👋+Greeting+all+Visitors+and+Follower)](https://git.io/typing-svg)
 
