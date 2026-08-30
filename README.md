@@ -16,7 +16,7 @@
 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X-EcutiOnner&theme=onedark" alt="X-EcutiOnner" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X-EcutiOnner&theme=radical" alt="X-EcutiOnner" /></a> </p>
 
 ## 🌠 My Contacts
 <a href="https://github.com/X-EcutiOnner">
