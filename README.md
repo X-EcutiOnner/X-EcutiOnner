@@ -34,13 +34,6 @@
 <br />
 <br />
 
-## 🎁 Donations
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xecutionner)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xecutionner)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%25B200FFF7&lines=🙏+ขอบคุณมากสำหรับการสนับสนุนของท่าน;🙏+Thanks+so+much+for+your+support)](https://git.io/typing-svg)
-
 ## 🛠️ Experiences
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
