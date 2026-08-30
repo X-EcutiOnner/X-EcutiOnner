@@ -44,11 +44,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|
 |---|
 
 ## 💪 My Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=X-EcutiOnner&theme=radical"/>|
+<img src="https://github-stats-extended.vercel.app/api?username=X-EcutiOnner&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=X-EcutiOnner&theme=radical"/>|
 |---|---|
 
 <!--
